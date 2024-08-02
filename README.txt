@@ -4,4 +4,4 @@ Ejercicio de comprobación Modulo 2
 
 Repositorio Github: https://github.com/DaniaCerpa/P-consolidacion-M2.git
 Clonar repositorio: git clone https://github.com/DaniaCerpa/P-consolidacion-M2.git
-Git-hub Pages: https://daniacerpa.github.io/P-consolidacion-M2.git
+Git-hub Pages: https://daniacerpa.github.io/P-consolidacion-M2/
