@@ -1,0 +1,134 @@
+#home {
+    padding-top: 30%;
+    padding-left: 12%;
+    padding-right: 10%;
+    padding-bottom: 40%;
+    background-color: #a6e0f3 ;    
+}
+
+#hola {font-size:500%;
+}
+
+#subtitulo {font-style: italic;
+font-family:'Times New Roman', Times, serif;
+}
+
+#resumenprof {padding-top: 8%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#imgdania {
+    border-radius: 50%;
+    margin-right: 10%
+}
+
+#dania {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.navbar {
+    padding-top: 0%;
+    padding-bottom: 0%;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.contenedor {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.enunciado {font-weight: bolder;
+}
+
+.row {
+    text-align: center;
+    justify-content: center;
+    padding-top: 10%;
+}
+
+.imgh {
+    margin-bottom: 5%;    
+}
+
+#habilidades {
+    background-color: #fcedee;
+}
+
+#contacto {
+    background-color: #ECFCF0;
+    padding-bottom: 20%;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;    
+}
+
+figcaption {display: none;
+}
+
+#formulario {display: none;
+}
+
+.btn-link {color: #0e76a8;
+    font-size: 2rem
+}
+
+@media(max-width:768px) {
+    .imgh {
+        width: 20%;
+        margin-left:10%;
+        margin-right: 10%;    
+    }
+}
+
+@media(min-width:768px) {
+    .card {
+        max-width: 80%;
+        margin: auto;
+    }
+    .imgh {
+       width:15%;
+       margin-left: 5%;
+       margin-right: 5%;
+    }
+}
+
+@media(min-width:992px) {
+    .card {
+        max-width: 80%;
+        margin: auto;
+    }
+    .card-img-top {
+        max-width: 70%;
+        padding-top: 3%;
+        text-align: center;
+        margin: auto;
+    }
+    #home {
+        padding-top: 15%;
+        padding-left: 10%;
+        padding-bottom: 25%;
+    }
+    .contenedor {
+        padding-left: 10%;
+        padding-right: 10%;
+        padding-top: 8%;
+        padding-bottom: 20%;
+        text-align: justify;
+    }
+    .imgh {
+        width:12%;
+        margin-left: 2%;
+        margin-right: 2%;
+     }
+}
+
+
+
