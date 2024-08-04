@@ -80,6 +80,8 @@ figcaption {display: none;
     font-size: 2rem
 }
 
+.carousel-item{text-align: center;}
+
 @media(max-width:768px) {
     .imgh {
         width: 20%;
